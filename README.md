@@ -47,4 +47,5 @@ Credit History and Loan Term Analysis:
 - A pivot table was used to examine how Credit History interacts with Loan Term.
 
 Property Area and Loan Approval:
-  -First, groupby  the data by Loan Approval and Property Area, then use a barplot to analyze the distribution of loan approvals across different property areas and check if property area affects the loan amounts requested.
+
+   -First, groupby  the data by Loan Approval and Property Area, then use a barplot to analyze the distribution of loan approvals across different property areas and check if property area affects the loan amounts requested.
